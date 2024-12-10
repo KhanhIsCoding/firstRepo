@@ -1,7 +1,0 @@
-1|giat la|bo|20
-2|don phong*|lan|100
-3|xe dua don|nguoi|100
-4|mat xa|nguoi|200
-5|xong hoi|gio|80
-6|gym|gio|50
-8|buffet sang|nguoi|130
